@@ -40,6 +40,11 @@ div.card {
   text-align:center
 }
 
+.nav-link {
+  background-color: #555;
+  color: red;
+}
+
 * {
   background-color: #333;
 }
