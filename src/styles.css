@@ -27,14 +27,14 @@ div.card {
   .day.light-scheme   { background: white; color:  #555; }
   .night.light-scheme { background:  #eee; color: black; }
 }
-
+/* 
 .day, .night {
   /* display: inline-block;
   padding: 1em;
   width: 7em;
-  height: 2em; */
+  height: 2em; 
   vertical-align: middle;
-}
+} */
 
 .title {
   text-align:center
